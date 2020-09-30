@@ -29,10 +29,10 @@ div{
 
 #beef
 {
-	position:relative;left:33%;top:0px;width:25%;height:400px;
+	position:relative;left:33%;top:0px;width:25%;height:400px;float: right;
 }
 
 #sushi
 {
-	position:relative;left:60%;top:0px;width:25%;height:400px;
+	position:relative;left:60%;top:0px;width:25%;height:400px;float: right;
 }
