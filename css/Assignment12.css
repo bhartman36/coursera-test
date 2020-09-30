@@ -24,15 +24,15 @@ div{
 }
 #chicken
 {
-	position:relative;left:0%;
+	position:relative;left:0%;width:25%;
 }
 
 #beef
 {
-	position:relative;left:33%;top:0px;
+	position:relative;left:33%;top:0px;width:25%;
 }
 
 #sushi
 {
-	position:relative;left:60%;top:0px;
+	position:relative;left:60%;top:0px;width:25%;
 }
