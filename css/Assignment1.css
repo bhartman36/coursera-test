@@ -1,0 +1,36 @@
+body{
+	font-family: Arial;
+	width:900px;
+	margin-left:30px;
+}
+
+header{
+	display:inline;
+	position:absolute;top:-100px;left:50%;
+	font-family: Times;
+}
+
+div{
+	display:inline;
+	border:solid;
+	border-color: black;
+}
+
+#container
+{
+	position:absolute;margin:100px;width:1200px;height:900px;
+}
+#chicken
+{
+	position:relative;left:0%;
+}
+
+#beef
+{
+	position:relative;left:33%;top:0px;
+}
+
+#sushi
+{
+	position:relative;left:60%;top:0px;
+}
