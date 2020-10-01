@@ -19,19 +19,19 @@ h1{
 
 #container
 {
-	position:absolute;margin:100px;width:1200px;height:900px;
+	position:absolute;margin:100px;width:1900px;height:900px;
 }
 #chicken
 {
-	position:relative;left:0%;top:0px;width:25%;height:400px;float right;word-break:break-all;
+	position:absolute;left:0%;top:0px;width:25%;height:400px;float right;word-break:break-all;
 }
 
 #beef
 {
-	position:relative;left:33%;top:0px;width:25%;height:400px;float: right;word-break:break-all;
+	position:absolute;left:33%;top:0px;width:25%;height:400px;float: right;word-break:break-all;
 }
 
 #sushi
 {
-	position:relative;left:60%;top:0px;width:25%;height:400px;float: right;word-break:break-all;
+	position:absolute;left:60%;top:0px;width:25%;height:400px;float: right;word-break:break-all;
 }
