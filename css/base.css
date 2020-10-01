@@ -6,6 +6,7 @@
 		.grid-container {
 						margin-left:100px;
 						margin-right:100px;
+						vertical-align:center;
  						 display: grid;
   						grid-template-columns: 200px 200px 200px;
   						padding-right:2px; 
