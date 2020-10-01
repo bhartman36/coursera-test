@@ -13,6 +13,9 @@
   						grid-template-columns: 200px 200px 200px;
   						padding-right:2px; 
 						}
+.righter{
+	float: right;
+}
 
 
 	header{
