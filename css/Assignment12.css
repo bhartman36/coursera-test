@@ -23,7 +23,8 @@ h1{
 
 #container
 {
-	position:absolute;margin:100px;width:1900px;height:900px;
+	display:grid;position:absolute;margin:100px;width:1900px;height:900px;
+	grid-template-columns: 33% 33% 33%;
 }
 #chicken
 {
