@@ -27,6 +27,21 @@ h1{
 	grid-template-columns: 33% 33% 33%;	
 	grid-template-rows: 25% 100px auto;
 }
+
+.grid-item{
+	width:200px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.grid-container {
+	margin-left:100px;
+	margin-right:100px;
+ 	display: grid;
+  	grid-template-columns: repeat(3, 3fr);
+  	padding-right:2px; 
+}
+
 #chicken
 {
 	position:absolute;left:0%;top:0px;width:25%;height:400px;float right;word-break:break-all;
