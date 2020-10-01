@@ -17,6 +17,10 @@ h1{
 	font-family: Times;
 }
 
+#constrainer{
+	width:100px;
+}
+
 #container
 {
 	position:absolute;margin:100px;width:1900px;height:900px;
