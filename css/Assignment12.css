@@ -17,13 +17,17 @@ h1{
 	font-family: Times;
 }
 
+#constrainer{
+	width:200px;
+}
+
 #container
 {
 	position:absolute;margin:100px;width:1900px;height:900px;
 }
 #chicken
 {
-	position:relative;left:0%;top:0px;width:25%;height:400px;float right;word-break:break-all;
+	position:absolute;left:0%;top:0px;width:25%;height:400px;float right;word-break:break-all;
 }
 
 #beef
