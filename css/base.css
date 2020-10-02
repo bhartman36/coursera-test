@@ -1,3 +1,9 @@
+		
+			@media only screen and (max-width: 991) and (min-width: 768) {
+				#chicken{
+					width:100%;
+				}
+
 		.grid-item{
 			width:170px;
 			padding-left:5px;
