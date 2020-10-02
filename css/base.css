@@ -4,6 +4,7 @@
 			padding-right:5px;
 		}
 		.grid-container {
+						width:1280px;
 						position:relative;
 						top:100px;left:auto;
 						margin-left:100px;
