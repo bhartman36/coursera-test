@@ -21,7 +21,7 @@
 						margin-right:100px;
 						vertical-align:center;
  						 display: grid;
-						grid-template-columns: repeat(2,2fr);
+						grid-template-columns: repeat(3,3fr);
 
   						padding-right:2px; 
 						}
