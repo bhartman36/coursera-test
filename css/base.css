@@ -1,12 +1,5 @@
 
-@media (min-width: 700px) {
-  .grid {
-    grid-template-areas:
-      'chicken'
-      'beef'
-      'sushi';
-  }
-}
+
 
 		.grid-item{
 			width:170px;
