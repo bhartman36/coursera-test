@@ -1,6 +1,4 @@
-						@media all and (max-width: 600px){
-						grid-template-columns: repeat(2,2fr);
-						}
+
 						@media all and (min-width: 901px){
   						grid-template-columns: repeat(3,3fr);
 						}
