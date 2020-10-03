@@ -19,10 +19,6 @@
   						padding-right:2px; 
 						}
 
-#sushi{
-	display:grid;
-	grid-column: 3 / span 2;
-}
 
 .righter{
 	position:relative;top:0;float: right;border-style:solid;border-color:black;
