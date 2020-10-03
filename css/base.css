@@ -16,6 +16,11 @@
   						grid-template-columns: repeat(3,3fr);
   						padding-right:2px; 
 						}
+
+#sushi{
+	grid-column: 1 / -1;
+}
+
 .righter{
 	position:relative;top:0;float: right;border-style:solid;border-color:black;
 }
