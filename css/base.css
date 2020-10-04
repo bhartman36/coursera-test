@@ -62,7 +62,7 @@ body{
 }
 
 .righter{
-	position:relative;top:0;right:-10px;float: right;border-style:solid;border-color:black;
+	position:relative;top:0;right:-10px;float: right;border-style:solid;border-color:black;font-weight: bold;
 }
 
 #red{
