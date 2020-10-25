@@ -1,5 +1,10 @@
 #menu{
   font-face:Times;color:red; font-size:25px;
+}
+
+.divtitle{
+  font-size:20px;
+}
 
 #sushi{
 height: 400px;
