@@ -18,7 +18,7 @@ console.log(speakWord);
 // byeSpeaker object instead of being a standalone function.
 // See Lecture 52, part 2
 function speak(name) {
-  console.log(speakWord + " " + name);
+  console.log(speakWord + " " + names);
 }{};
 
 // STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
