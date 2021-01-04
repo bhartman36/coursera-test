@@ -11,8 +11,8 @@
 var byeSpeaker = {};
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
-var   byeSpeaker.speakWord = "Good Bye";
-console.log(byeSpeaker.speakword);
+var   speakWord = "Good Bye";
+console.log(speakword);
 // STEP 8: Rewrite the 'speak' function such that it is attached to the
 // byeSpeaker object instead of being a standalone function.
 // See Lecture 52, part 2
